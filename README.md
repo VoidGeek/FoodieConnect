@@ -1,7 +1,7 @@
 ﻿# Skill-Lab-Internal
 
 Contributors:
- [Nishanth Bhat](https://github.com/BhatNishanthGanesh), [ChethanPai](https://github.com/CheetahCodes21) and [Anudeep KK](https://github.com/AnudeepKK)
+ [Shreekara B](https://github.com/Shreek1009), [ChethanPai](https://github.com/CheetahCodes21) and [Anudeep KK](https://github.com/AnudeepKK)
 
 ---
 
